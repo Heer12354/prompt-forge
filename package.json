@@ -1,0 +1,28 @@
+{
+  "name": "prompt-forge",
+  "version": "0.1.0",
+  "description": "AI-powered prompt copilot extension for Claude, ChatGPT, and Gemini",
+  "private": true,
+  "scripts": {
+    "test": "npx playwright test tests/e2e.spec.js",
+    "test:ui": "npx playwright test tests/e2e.spec.js --ui",
+    "test:report": "npx playwright show-report"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.44.0"
+  },
+  "keywords": [
+    "chrome-extension",
+    "prompt-engineering",
+    "AI",
+    "claude",
+    "chatgpt",
+    "gemini"
+  ],
+  "author": "Heet",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/YOUR_USERNAME/prompt-forge"
+  }
+}
