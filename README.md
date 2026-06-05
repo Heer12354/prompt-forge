@@ -30,9 +30,9 @@ It injects a tiny floating toolbar directly into the input box of Claude, ChatGP
 
 ## Demo
 
-![Prompt Forge toolbar injected into Claude](<img width="720" height="201" alt="Screenshot 2026-06-05 at 8 40 04 PM" src="https://github.com/user-attachments/assets/9b5f7adf-b1e9-4e55-897c-ef766e555ca8" />
+(<img width="720" height="201" alt="Screenshot 2026-06-05 at 8 40 04 PM" src="https://github.com/user-attachments/assets/9b5f7adf-b1e9-4e55-897c-ef766e555ca8" />
 )
-![Prompt Forge toolbar injected into Gemini](<img width="787" height="117" alt="Screenshot 2026-06-05 at 8 46 53 PM" src="https://github.com/user-attachments/assets/f41ba274-688e-4404-82c2-9a999a373325" />
+(<img width="787" height="117" alt="Screenshot 2026-06-05 at 8 46 53 PM" src="https://github.com/user-attachments/assets/f41ba274-688e-4404-82c2-9a999a373325" />
 )
 
 ---
