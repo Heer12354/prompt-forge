@@ -2,9 +2,11 @@
 
 > A Chrome/Arc extension that injects a live AI prompt copilot into Claude, ChatGPT, and Gemini — right next to the input box.
 
-![Version](https://img.shields.io/badge/version-0.1.0-blue?style=flat-square)
-![Manifest](https://img.shields.io/badge/manifest-v3-green?style=flat-square)
-![License](https://img.shields.io/badge/license-MIT-yellow?style=flat-square)
+![Version](<img width="720" height="201" alt="Screenshot 2026-06-05 at 8 40 04 PM" src="https://github.com/user-attachments/assets/e403cb52-ffd8-4b8a-ad75-9cb97cfca8a9" />)
+![Manifest](<img width="699" height="121" alt="Screenshot 2026-06-05 at 8 45 53 PM" src="https://github.com/user-attachments/assets/b7a1d27e-0b03-4b66-bdbc-ba6383a3430b" />
+)
+![License](<img width="787" height="117" alt="Screenshot 2026-06-05 at 8 46 53 PM" src="https://github.com/user-attachments/assets/6d079e7d-a812-4c1e-a79b-e27e04bfe85c" />
+)
 ![Browsers](https://img.shields.io/badge/browser-Chrome%20%7C%20Arc-orange?style=flat-square)
 
 ---
